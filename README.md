@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pathomphong Chaichuay (Pang)</h1>
 <h3 align="center">A Passionate Frontend Developer | Third-Year Software Engineering Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=6531503110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=6531503110&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophy" />
-  </a>
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500" />
 </div>
