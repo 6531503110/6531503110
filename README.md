@@ -19,7 +19,7 @@
 🎓 I'm a third-year Software Engineering student at **Mae Fah Luang University**.  
 💡 I enjoy creating web applications and exploring new programming languages and technologies in frontend development.  
 
-- 🔭 Currently working on [**Mango Bruising Area Web App**](https://github.com/6531503110/mango-bruising-area-web-app).  
+- 🔭 Currently working on [**Mango Bruising Area Web App**]([https://github.com/6531503110/mango-bruising-area-web-app](https://github.com/6531503110/mango-bruise-area)).  
 - 🌱 Learning **React.js** to develop web applications for detecting mango bruising areas.  
 - 📫 Reach me at: **6531503110@lamduan.mfu.ac.th**  
 
