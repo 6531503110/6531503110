@@ -12,7 +12,7 @@
 🎓 I'm a third-year Software Engineering student at **Mae Fah Luang University**.  
 💡 I enjoy creating web applications and exploring new programming languages and technologies in frontend development.  
 
-- 🔭 Currently working on [**mango-bruise-area**](https://github.com/6531503110/mango-bruise-area)
+- 🔭 Currently working on [**mango-bruise-area**](https://github.com/6531503110/mango-bruise-area)  
 - 🌱 Learning **React.js** to develop web applications for detecting mango bruising areas.  
 - 📫 Reach me at: **6531503110@lamduan.mfu.ac.th**  
 
@@ -31,6 +31,8 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
   <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
 ---
